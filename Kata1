@@ -1,1 +1,12 @@
+#ejercicio 1
+from datetime import date
+date.today()
+print(date.today())
+print (f"today´s date is: {date.today()}")
 
+#ejercicio 2 convertidor de unidades
+Al = 3.26156
+parsecs= 11
+lightyears= Al*parsecs
+
+print(f"{parsecs} parsecs, is {lightyears} lightyears")
