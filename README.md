@@ -1,2 +1,3 @@
 # Katas_LaunchX
-ejercicios primera semana
+katas del onboarding
+
